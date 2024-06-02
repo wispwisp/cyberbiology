@@ -1,0 +1,4 @@
+;; https://figwheel.org/config-options
+{:target-dir "resources"
+ :open-url false}
+
